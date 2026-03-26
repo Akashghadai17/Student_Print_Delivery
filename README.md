@@ -17,13 +17,13 @@ This project helps students upload documents and get printed copies delivered ea
 
 ## 👨‍💻 Team Contributions
 
-### 🧑‍💻 Akash Ghadai
+### 🧑‍💻 T. Sritam Patra
 
 * Frontend Design
 * UI/UX Development
-* GitHub Management
 
-### 🧑‍💻 T. Sritam Patra
+
+### 🧑‍💻 Hitanshu Tanmay Mohapatra
 
 * Backend (Flask)
 * Routing & Server Setup
@@ -40,11 +40,12 @@ This project helps students upload documents and get printed copies delivered ea
 * Content Writing
 * Added Login & Signup UI pages
 
-### 🧑‍💻 Himanshu Tanmay Mohapatra
+### 🧑‍💻 Akash Ghadai 
 
 * Order Flow
 * Pricing Logic
 * Final Testing
+* GitHub Management
 
 ---
 
