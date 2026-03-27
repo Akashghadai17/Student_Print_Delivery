@@ -53,7 +53,7 @@ This project helps students upload documents and get printed copies delivered ea
 
 * HTML, CSS
 * Python (Flask)
-* SQLite
+* Mongodb
 
 ---
 
